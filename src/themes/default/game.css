@@ -1,0 +1,23 @@
+.toolBox li:hover {
+	background-color: #99f;
+}
+
+.toolBox .selected {
+	background-color: #ccf;
+}
+
+.toolBox .full .icon {
+	mask-image: url('icons/check-circle.svg');
+	-webkit-mask-image: url('icons/check-circle.svg');
+	background-color: #0d0;
+}
+
+.toolBox .over {
+	color: #c00;
+}
+
+.toolBox .over .icon {
+	mask-image: url('icons/exclamation-triangle.svg');
+	-webkit-mask-image: url('icons/exclamation-triangle.svg');
+	background-color: #ee0;
+}

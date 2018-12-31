@@ -1,0 +1,44 @@
+/* Skin of the empty walls */
+.vWall, .hWall {
+	background-color: red;
+}
+
+/* Skin of the outer (unbreakable) walls */
+.outerWall {
+	background-color: blue;
+}
+
+/* Skin of the inner (breakable) walls */
+.wall {
+	background-color: yellow;
+}
+
+/* Skin of the pit */
+.pit {
+	background-color: black;
+}
+
+/* Skin of the river */
+.river {
+	background-color: cadetblue;
+}
+
+/* Skin of the crocodile */
+.damage {
+	background-color: green;
+}
+
+/* Skin of the store */
+.store {
+	background-color: yellow;
+}
+
+/* Skin of the treasures */
+.treasure {
+	background-color: burlywood;
+}
+
+/* Skin of the exit */
+.exit {
+	background-color: slategray;
+}
